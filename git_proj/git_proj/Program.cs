@@ -12,7 +12,6 @@ namespace git_proj
         {
             Console.WriteLine("Hello git!");
             //wow something new! !!
-            // another commit?
         }
     }
 }
