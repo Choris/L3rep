@@ -11,6 +11,8 @@ namespace git_proj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git!");
+            //wow something new! !!
+            // another commit?
         }
     }
 }
